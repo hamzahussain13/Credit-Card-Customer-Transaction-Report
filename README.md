@@ -15,7 +15,7 @@ What are the spending patterns across different card categories and expenditure 
 How can we mitigate credit risk (delinquency rates)?
 
 🛠 Tools & Technologies Used
-Power BI / Tableau: For data visualization and dashboard creation.
+Power BI: For data visualization and dashboard creation.
 
 SQL: For data extraction, cleaning, and processing.
 
